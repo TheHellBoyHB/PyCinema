@@ -7,7 +7,7 @@ class Movie:
     name=" "
     year=0
     seats=0
-    #time=[0,0] #of the movie, represented in array, hour[0]= hour and hour[1]= minutes ex: h[0]=14 hour[1]=32 (14:32)
+    #time=[0,0] #Tof the movie, represented in array, hour[0]= hour and hour[1]= minutes ex: h[0]=14 hour[1]=32 (14:32)
 
     def __init__(self, id, name, year):
         self.id=id
