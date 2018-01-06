@@ -1,0 +1,22 @@
+{
+  "movie1": {
+    "index": 1,
+    "name": "Ferdinand DUB - 3D",
+    "year": 2017,
+    "steats": 10,
+    "time": {
+      "hour": 11,
+      "min": 15
+    }
+},
+  "movie2": {
+    "index": 2,
+    "name": "Star Wars: The Last Jedi - 3D",
+    "year": 2017,
+    "steats": 20,
+    "time": {
+      "hour": 11,
+      "min": 40
+    }
+  }
+}
