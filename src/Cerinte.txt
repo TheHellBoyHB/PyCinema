@@ -1,0 +1,16 @@
+CINEMAPALACE RIPP-OFF
+
+terinal-based - sa se afiseze un meni pentru fiecare dintre punctele de mai jos.
+
+Phase I:
+1: Se afisam lista de filme disponibile
+2: Sa afisam lista rezervarilor la film
+3: Sa putem rezerva un bilet la un film
+
+4: Citire filme dispnobile din fisier
+
+Phase II:
+5: Logare/Cont de admin
+    5.1: Alt Menu incat adminul poate interactiona
+6: CRUD (Create Read Update Delete) liste filme disponibile
+7: Rezervarile sa fie in fisier
